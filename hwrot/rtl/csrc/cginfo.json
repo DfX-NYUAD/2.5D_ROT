@@ -1,0 +1,150 @@
+{
+    "CompileStatus": "Successful",
+    "CompileProcesses": [
+        "cgproc.75793.json"
+    ],
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "gpcfg": {
+            "j2fV7_d": {
+                "bytes": 94330,
+                "out": "j2fV7_d.o",
+                "mod": "gpcfg",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.2/_75793_archive_1.a"
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "bytes": 32694,
+                "out": "reYIK_d.o",
+                "mod": "std",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.2/_prev_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 11914,
+                "out": "objs/amcQw_d.o",
+                "mod": "...MASTER...",
+                "mode": 4,
+                "checksum": 0
+            }
+        },
+        "gpcfg_rd_wr": {
+            "sNLqC_d": {
+                "bytes": 11548,
+                "out": "sNLqC_d.o",
+                "mod": "gpcfg_rd_wr",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.2/_75793_archive_1.a"
+            }
+        }
+    },
+    "NameTable": {
+        "std": [
+            "std",
+            "reYIK",
+            "module",
+            1
+        ],
+        "gpcfg": [
+            "gpcfg",
+            "j2fV7",
+            "module",
+            2
+        ],
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module",
+            4
+        ],
+        "gpcfg_rd_wr": [
+            "gpcfg_rd_wr",
+            "sNLqC",
+            "module",
+            3
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "CurCompileModules": [
+        "...MASTER...",
+        "std",
+        "gpcfg",
+        "gpcfg",
+        "gpcfg_rd_wr",
+        "gpcfg_rd_wr"
+    ],
+    "CurCompileUdps": {},
+    "stat": {
+        "totalObjSize": 181493,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.031995000000000003,
+            "ru_stime_sec": 0.022995999999999999,
+            "ru_maxrss_kb": 49764,
+            "ru_minflt": 11768,
+            "ru_majflt": 0,
+            "ru_nvcsw": 40,
+            "ru_nivcsw": 24
+        },
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.265959,
+            "ru_stime_sec": 0.13297900000000001,
+            "ru_maxrss_kb": 97584,
+            "ru_minflt": 27759,
+            "ru_majflt": 0,
+            "ru_nvcsw": 1274,
+            "ru_nivcsw": 25
+        },
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_majflt": 0,
+            "ru_nvcsw": 0,
+            "ru_nivcsw": 0
+        },
+        "nMops": 12414,
+        "nQuads": 4613,
+        "CodeGen(%)": 19.14886502162949,
+        "ru_self_end": {
+            "ru_utime_sec": 0.32894899999999999,
+            "ru_stime_sec": 0.14097799999999999,
+            "ru_maxrss_kb": 102432,
+            "ru_minflt": 30077,
+            "ru_majflt": 0,
+            "ru_nvcsw": 1279,
+            "ru_nivcsw": 28
+        },
+        "mop/quad": 2.6910903967049644,
+        "mopSpeed": 197078.90141292271,
+        "quadSpeed": 73233.846642324192,
+        "Frontend(%)": 80.85113497837051,
+        "outputSizePerQuad": 39.34381096900065,
+        "peak_mem_kb": 283352
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 65939,
+        "archive": "archive.2/_75793_archive_1.a"
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "Misc": {
+        "archive_dir": "archive.2",
+        "default_output_dir": "csrc",
+        "csrc_abs": "/home/projects/vlsi/hwrot/design/modules/hwrot/rtl/csrc",
+        "cwd": "/home/projects/vlsi/hwrot/design/modules/hwrot/rtl",
+        "csrc": "csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/home/projects/vlsi/hwrot/design/modules/hwrot/rtl/simv.daidir"
+    }
+}

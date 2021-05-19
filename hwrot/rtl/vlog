@@ -1,0 +1,14 @@
+                         Chronologic VCS (TM)
+         Version M-2017.03_Full64 -- Tue Nov 20 11:00:46 2018
+               Copyright (c) 1991-2017 by Synopsys Inc.
+                         ALL RIGHTS RESERVED
+
+This program is proprietary and confidential information of Synopsys Inc.
+and may be used and disclosed only as authorized in a license agreement
+controlling such use and disclosure.
+
+Parsing design file 'gpcfg.v'
+Parsing included file 'gpcfg_addr_params.v'.
+Back to file 'gpcfg.v'.
+Parsing design file 'gpcfg_rd_wr.v'
+CPU time: .175 seconds to compile

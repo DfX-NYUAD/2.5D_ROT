@@ -1,0 +1,12 @@
+#----Below 3 are fixed------------------------------------
+setenv TECH    65nm
+setenv SYNTH_LIBRARY   /home/projects/vlsi/libraries/65lpe/ref_lib/arm/std_cells/hvt/timing_lib/nldm/db/sc9_cmos10lpe_base_hvt_ss_nominal_max_1p08v_125c.db
+setenv SNPSLMD_QUEUE true
+#---------------------------------------------------------
+setenv CLKNAME hclk
+
+setenv DESIGN  transmonitor
+
+
+setenv NUM_APU_POLICY 32
+setenv NUM_DPU_POLICY 32

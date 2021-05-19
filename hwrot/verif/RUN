@@ -1,0 +1,3 @@
+vcs test.v -sverilog -debug_pp -lca -R
+dve -vpd vcdplus.vpd &
+

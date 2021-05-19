@@ -1,0 +1,1 @@
+/home/projects/vlsi/libraries/65lpe/ref_lib/arm/memories/sram_sp_hde/verilog/sram_sp_hde_64k.v

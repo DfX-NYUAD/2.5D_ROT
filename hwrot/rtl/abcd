@@ -1,0 +1,1 @@
+#define GPCFG_IRQ4ADDR       (*(unit32_t *) (GPCFG_BASE + 0x00d0))   //Address where IRQ4 handler is stored

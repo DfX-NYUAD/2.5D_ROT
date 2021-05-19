@@ -1,0 +1,150 @@
+{
+    "PrevCompiledModules": {
+        "gpcfg": {
+            "j2fV7_d": {
+                "bytes": 94330,
+                "out": "j2fV7_d.o",
+                "mod": "gpcfg",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_75087_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "bytes": 11914,
+                "out": "objs/amcQw_d.o",
+                "mod": "...MASTER...",
+                "mode": 4,
+                "checksum": 0
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "bytes": 32694,
+                "out": "reYIK_d.o",
+                "mod": "std",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_prev_archive_1.a"
+            }
+        },
+        "gpcfg_rd_wr": {
+            "sNLqC_d": {
+                "bytes": 11548,
+                "out": "sNLqC_d.o",
+                "mod": "gpcfg_rd_wr",
+                "mode": 4,
+                "checksum": 0,
+                "archive": "archive.1/_75087_archive_1.a"
+            }
+        }
+    },
+    "MlibObjs": {},
+    "NameTable": {
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module",
+            4
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module",
+            1
+        ],
+        "gpcfg": [
+            "gpcfg",
+            "j2fV7",
+            "module",
+            2
+        ],
+        "gpcfg_rd_wr": [
+            "gpcfg_rd_wr",
+            "sNLqC",
+            "module",
+            3
+        ]
+    },
+    "CurCompileUdps": {},
+    "Misc": {
+        "cwd": "/home/projects/vlsi/hwrot/design/modules/hwrot/rtl",
+        "default_output_dir": "csrc",
+        "csrc": "csrc",
+        "daidir_abs": "/home/projects/vlsi/hwrot/design/modules/hwrot/rtl/simv.daidir",
+        "csrc_abs": "/home/projects/vlsi/hwrot/design/modules/hwrot/rtl/csrc",
+        "daidir": "simv.daidir",
+        "archive_dir": "archive.1"
+    },
+    "CompileStrategy": "fullobj",
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_stime_sec": 0.154976,
+            "ru_utime_sec": 0.27195799999999998,
+            "ru_majflt": 298,
+            "ru_minflt": 27359,
+            "ru_maxrss_kb": 97464,
+            "ru_nivcsw": 101,
+            "ru_nvcsw": 1626
+        },
+        "peak_mem_kb": 283344,
+        "outputSizePerQuad": 20.76087481875302,
+        "ru_childs_cgstart": {
+            "ru_stime_sec": 0.0,
+            "ru_utime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_minflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_nvcsw": 0
+        },
+        "CodeGen(%)": 18.806146607393966,
+        "ru_childs_end": {
+            "ru_stime_sec": 0.025995999999999998,
+            "ru_utime_sec": 0.035993999999999998,
+            "ru_majflt": 34,
+            "ru_minflt": 11733,
+            "ru_maxrss_kb": 49660,
+            "ru_nivcsw": 36,
+            "ru_nvcsw": 82
+        },
+        "nMops": 22063,
+        "totalObjSize": 171817,
+        "nQuads": 8276,
+        "quadSpeed": 131383.84848629165,
+        "ru_self_end": {
+            "ru_stime_sec": 0.16797400000000001,
+            "ru_utime_sec": 0.334949,
+            "ru_majflt": 345,
+            "ru_minflt": 29657,
+            "ru_maxrss_kb": 102296,
+            "ru_nivcsw": 112,
+            "ru_nvcsw": 1686
+        },
+        "Frontend(%)": 81.19385339260603,
+        "mopSpeed": 350256.38583289663,
+        "mop/quad": 2.665901401643306
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 65939,
+        "archive": "archive.1/_75087_archive_1.a"
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "std",
+        "gpcfg",
+        "gpcfg",
+        "gpcfg_rd_wr",
+        "gpcfg_rd_wr"
+    ],
+    "LVLData": [
+        "SIM"
+    ],
+    "PEModules": [],
+    "CompileProcesses": [
+        "cgproc.75087.json"
+    ],
+    "CompileStatus": "Successful"
+}

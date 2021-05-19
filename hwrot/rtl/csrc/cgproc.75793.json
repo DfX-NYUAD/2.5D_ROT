@@ -1,0 +1,63 @@
+{
+    "reusePaths": {
+        "amcQw_d": {
+            "icPath": "csrc"
+        },
+        "reYIK_d": {
+            "icPath": "csrc"
+        }
+    },
+    "CompUnits": {
+        "j2fV7_d": {
+            "out": "j2fV7_d.o",
+            "mod": "gpcfg",
+            "bytes": 104006,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.2/_75793_archive_1.a"
+        },
+        "sNLqC_d": {
+            "out": "sNLqC_d.o",
+            "mod": "gpcfg_rd_wr",
+            "bytes": 11548,
+            "mode": 4,
+            "checksum": 0,
+            "archive": "archive.2/_75793_archive_1.a"
+        }
+    },
+    "Modules": {
+        "gpcfg_rd_wr": {
+            "Compiled": "Yes",
+            "Compiled Times": 3
+        },
+        "...MASTER...": {},
+        "std": {
+            "Compiled": "Yes",
+            "Compiled Times": 3
+        },
+        "gpcfg": {
+            "Compiled": "Yes",
+            "Compiled Times": 3
+        }
+    },
+    "ObjArchives": [
+        {
+            "objects": [
+                [
+                    "j2fV7_d.o",
+                    104006
+                ],
+                [
+                    "sNLqC_d.o",
+                    11548
+                ],
+                [
+                    "amcQwB.o",
+                    65939
+                ]
+            ],
+            "archive": "archive.2/_75793_archive_1.a",
+            "size": 181493
+        }
+    ]
+}
